@@ -30,56 +30,6 @@ I'm a developer who builds things — from AI-powered terminal agents to full-st
 
 ---
 
-## 🚀 Featured Projects
-
-### 🧠 [AI Agent Terminal](https://github.com/sam28u/AI-Agent-Terminal-based-)
-> A conversational AI agent running entirely in your terminal.
-
-Built with **Bun**, **LangGraph**, **Groq** (ultra-fast LLM inference), and **Tavily** for live web search. Manages conversation state and context like a real agent.
-
-`JavaScript` `LangGraph` `Groq` `Tavily` `Bun`
-
----
-
-### 🌍 [SEISMIC.IO](https://github.com/sam28u/SEISMIC.IO)
-> Advanced Tectonic Surveillance Platform
-
-Real-time seismic data visualization and monitoring. Clean TypeScript architecture for a complex data-heavy domain.
-
-`TypeScript` `Data Viz` `Geoscience`
-
----
-
-### 💼 [Job Searching Website](https://github.com/sam28u/Job-Searching-website)
-> A modern job discovery and search platform.
-
-Full-featured job board web app built in JavaScript with a clean, user-friendly interface.
-
-`JavaScript` `Web App` `UI/UX`
-
----
-
-### 🔗 [URL Shortener](https://github.com/sam28u/UrlShortener)
-> Lightweight and fast URL shortening service.
-
-`JavaScript` `Backend` `Web Tool`
-
----
-
-### 🍕 [Food Ordering App](https://github.com/sam28u/Food-Ordering-App)
-> Smooth and intuitive food ordering experience.
-
-`JavaScript` `Frontend` `UI`
-
----
-
-### 🤖 [TARS Website 2025](https://github.com/sam28u/TARS_Website_2025)
-> A sleek website for TARS — blending retro inspiration with modern web design.
-
-`CSS` `Frontend` `Design`
-
----
-
 ## 🛠️ Tech Stack
 
 **Languages**
