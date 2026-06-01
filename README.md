@@ -35,19 +35,13 @@ B.Tech candidate and Full-Stack Developer with a **builder's mindset** — I spe
 
 ---
 
-### GitHub
-
-<div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=sam28u&show_icons=true&theme=github_dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sam28u&layout=compact&theme=github_dark&hide_border=true)
-
-</div>
-
 ## 🔥 Streak 
 
-<div align="center"> [![GitHub Streak](https://streak-stats.demolab.com?user=sam28u&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats) </div> 
+<div align="center"> 
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=sam28u&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats) 
+
+</div> 
 
 --- 
 
