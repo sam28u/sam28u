@@ -11,8 +11,8 @@
 
 **Full-Stack Developer • Competitive Programmer**
 
-[LinkedIn](https://linkedin.com/in/sam28u) •
-[LeetCode](https://leetcode.com/) •
+[LinkedIn](https://www.linkedin.com/in/sambhu-prasad-verma/) •
+[LeetCode](https://leetcode.com/u/sam28u/) •
 [Email](mailto:sambhufirst11@gmail.com)
 
 </div>
