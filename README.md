@@ -19,13 +19,13 @@
 
 ---
 
-### 🧑‍💻 About Me 
+## 🧑‍💻 About Me
 
-B.Tech candidate and Full-Stack Developer with a **builder's mindset** — I specialize in scalable architectures and end-to-end product delivery across the complete SDLC. From system design to deployment, I care about shipping clean, production-ready code. 
-- 🏗️ Proficient in designing, documenting, and deploying complex web applications
-- 🧠 Strong foundation in **Data Structures & Algorithms** from competitive programming
-- ⚡ Focused on **MERN stack**, scalable backends, and modern auth systems
-- 🏆 GitHub Achievement: **Pull Shark**
+B.Tech student passionate about software development.
+
+- Full-stack development with React, TypeScript, Node.js, and PostgreSQL
+- Interested in backend systems and scalable applications
+- Competitive programming and DSA enthusiast
 
 ---
 
